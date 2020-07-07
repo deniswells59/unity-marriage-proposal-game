@@ -1,0 +1,7 @@
+Dialogue/**/
+
+Dialogue/**/*.meta
+!Dialogue/**/*.cs.meta
+
+Dialogue/**/*.asset
+Dialogue/**/*.asset.meta
