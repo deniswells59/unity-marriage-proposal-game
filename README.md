@@ -19,6 +19,13 @@
 - Secondary dialogue displays after having talked to NPC before
 - Ability to add sound effects and change fonts of any dialogue event
 
+## Tech
+
+- C#
+- Unity 2D
+- Aseprite
+
+
 ### Notes
 
 I left out a lot of assets and dialogue scripts here, because it's a _pretty_ personalized game only meant for one human being to ever play, but I thought I would share some scripts. 🙂
