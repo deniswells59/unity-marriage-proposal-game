@@ -29,3 +29,9 @@
 ### Notes
 
 I left out a lot of assets and dialogue scripts here, because it's a _pretty_ personalized game only meant for one human being to ever play, but I thought I would share some scripts. 🙂
+
+### Screenshots
+
+![marriage_yt_thumbnail](https://img.youtube.com/vi/5o9UsC_wgNg/1.jpg)
+![marriage_yt_thumbnail](https://img.youtube.com/vi/5o9UsC_wgNg/2.jpg)
+![marriage_yt_thumbnail](https://img.youtube.com/vi/5o9UsC_wgNg/3.jpg)
