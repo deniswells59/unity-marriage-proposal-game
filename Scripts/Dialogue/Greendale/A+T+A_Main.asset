@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: A+T+A_Main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Abed
+    font: {fileID: 0}
+    sentence: Hello! Welcome to Greendale Community College! My name is Abed.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: Hi! I'm Troy. Woah, uhhh, why does this girl look so weird?
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: Troy! You can't say things like that!
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: It's okay, Annie. Troy's right. This character is a different art style.
+      That's why she might look strange to us.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: Oh... Are you being "meta", Abed? I feel like you're being meta.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: No. We're literally in a video game right now. So, I guess I'm being
+      "literal". If I we're being meta, you'd know it.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: So, we're in a video game again. But we're not in Journey to the Center
+      of Hawkthorne this time.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: That's why we look a little "off" right now. Almost like the game developer
+      downloaded already made sprites on the internet and stretched us to fit the
+      game's format.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: '......'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: '......'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: Okay. NOW he's being meta.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: Umm, I can't move. Is this a bad dream? I had a dream last night where
+      Pierce and the Dean we're contestants on So You Think You Can Dance. They did
+      a contemporary dance to a Cyndi Lauper song and I DID NOT cry.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: Awwww. What song was it?
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: Time After Time.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: Of course.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: '* holding back tears * It was so beautiful.'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: Okay, we're way off course here. This always happens when Jeff isn't
+      around.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: '*impatiently* We can''t move because we''re NPC''s. We aren''t programmed
+      to move. Our only job is to greet the player, give her a short tutorial, and
+      let her explore.'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: "Ooo! Okay, lemme try: \n\nHello, uhh, \"Player\"! I am Annie Edison.
+      Uhh.... this is the study room and ummm... okay. I don't know what the hell
+      I'm supposed to say."
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: 'Nice attempt, Annie. But this is how it''s supposed to sound:'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: Greeting, Cheyenne! Welcome to your journey! Use WASD to move around
+      and ENTER to talk to anybody you may encounter along the way. When you're ready
+      to leave an area, head all the way to the end of the screen to exit.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: Oh, fun! Lemme try. Hello! Please use the TRIANGLE button to shoot lasers
+      and the LEFT MOUSE BUTTON to equip a shield. Here, put my phone number in your
+      INVENTORY and give it to any HOTTIES you meet along the way.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: None of that is true. Just keep walking and talking, that's about it.
+      Think of this game like an INTERACTIVE STORY.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: Our task is finally done. Good luck, Cheyenne!
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: Yeah! Good luck, "Player"!
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Annie
+    font: {fileID: 0}
+    sentence: Good luck! It was nice to meet you, Cheyenne!
+    soundByte: {fileID: 0}
+    sceneChange: 0

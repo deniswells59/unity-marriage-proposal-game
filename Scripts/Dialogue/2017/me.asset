@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: me
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Me
+    font: {fileID: 0}
+    sentence: Hey, babe!
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: I love being here with you.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: I know that I'm not the best person to go on vacation with. I get anxious
+      when I'm traveling, which makes me super irritable and angry.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: But, it's the best being able to leave everything, even if it's just
+      for a couple of days and come to our own little fantasy land. Like a date night
+      that goes for days.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: We spent 6 months without our APs and hope we never do that again. I
+      missed Disney-Cheyenne.
+    soundByte: {fileID: 0}
+    sceneChange: 0

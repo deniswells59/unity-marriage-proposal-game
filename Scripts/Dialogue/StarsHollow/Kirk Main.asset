@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Kirk Main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Kirk
+    sentence: Welcome to Stars Hollow, stranger! Home to the world-renowned crypto-currency
+      known as Kirk-Coin! Invest today to be one of the first to hop on board! You
+      know what they say!
+  - name: Kirk
+    sentence: "\"There\u2019s no nobility in poverty!\""
+  - name: Kirk
+    sentence: '"Without action, the best intentions in the world are nothing more
+      than that: intentions."'
+  - name: Kirk
+    sentence: Hey, uhh, how'd that sound? I watched The Wolf of Wall Street last night
+      and it REALLY got me pumped to come out and sell today.
+  - name: Kirk
+    sentence: '...'
+  - name: Kirk
+    sentence: Oh, you can't talk? I once spent 4 weeks not talking because my cat
+      attacked me and damaged my larynx. Did your cat damage your larynx too?
+  - name: Kirk
+    sentence: "Oh, right. Can't talk. \n\nCould you move along? Mute people are not
+      my target demographic."

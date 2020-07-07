@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: avengers second
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Tony
+    font: {fileID: 0}
+    sentence: Cap? You still got eyes on Cheyenne?
+  - name: Steve
+    font: {fileID: 0}
+    sentence: 'Yes I do, Tony.
+
+
+      I could do this all day...'
+  - name: Tony
+    font: {fileID: 0}
+    sentence: Hey, uh, Wayne? Garth? Can you please stop hitting on this girl?
+  - name: Thor
+    font: {fileID: 11400000, guid: acefdff3bb5be4f3a89188da1e898208, type: 2}
+    sentence: 'What? * scoffs*
+
+
+      I would never be attracted to a beautiful, female Terran such as this. You''re
+      mistaken, Tony.'
+  - name: Steve
+    font: {fileID: 0}
+    sentence: 'Uh, right. I only have eyes for one girl.
+
+
+      * pulls out his stupid locket with Hayley Atwell''s picture *'
+  - name: Tony
+    font: {fileID: 0}
+    sentence: 'Right. Moving on.
+
+
+      I just got off the horn with the wizard.'
+  - name: Tony
+    font: {fileID: 0}
+    sentence: "He says you're looking for something? \n\nNo, scratch that, someone.
+      Your Constant."
+  - name: Tony
+    font: {fileID: 0}
+    sentence: 'Looks like you''re bouncing around different universes to find them
+      and we need to get the universe back in order.
+
+
+      So, long-story-short, I''m gonna send you back in time. Come up here on the
+      platform.
+
+
+      You''re going Quantum.'

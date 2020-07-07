@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Jeff2
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Pierce
+    font: {fileID: 0}
+    sentence: That really hurts me, Jeff. Do you remember when I was a pseudo-father-figure
+      to you? That despite my flaws, I was able to guide with the wisdom you lack
+      from a male role model?
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Jeff
+    font: {fileID: 0}
+    sentence: Well, now you're just punching bag full of fart, old, fat, dick, and
+      racist jokes because of unprofessional writers losing sight of the point of
+      the show.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Jeff
+    font: {fileID: 0}
+    sentence: 'ANYWAYS!
+
+
+      Cheyenne. Hi. Go find something or I dunno! Abed what''s my line? Wasn''t a
+      reference to Lost or something?'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Abed
+    font: {fileID: 0}
+    sentence: '* yelling from his position *
+
+
+      No! She shouldn''t know that yet! Say "good luck" but give it some Winger-flair.'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Troy
+    font: {fileID: 0}
+    sentence: '* yelling from his position *
+
+
+      And stop being a dick forever!'
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Pierce
+    font: {fileID: 0}
+    sentence: Good luck, Cheyenne. You'll need it...
+    soundByte: {fileID: 0}
+    sceneChange: 0

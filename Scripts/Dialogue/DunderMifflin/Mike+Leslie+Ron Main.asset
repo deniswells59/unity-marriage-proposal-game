@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Mike+Leslie+Ron Main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Michael
+    sentence: 'Oh, you must be the new intern. And I see you read the ad:
+
+
+      "Young and Sexy aaaaaand busty".'
+  - name: Michael
+    sentence: 'Oh no, I''m just kidding!
+
+
+      * looks to camera *
+
+
+      It''s not sexual harassment, if it''s a compliment.'
+  - name: Leslie Knope
+    sentence: Umm, Mr. Scott. Sorry to interrupt, but can we just iron out that last
+      few details and then I can get my deparment out of here?
+  - name: Michael
+    sentence: 'Am I seeing double or is there two hot blondes in this office??
+
+
+      In fact, we got to get Angela over here. It''s like an all blonde Charlie''s
+      Angels.'
+  - name: Ron
+    sentence: "Okay. \n\nSir, I don't want to get in the way of how you run your office
+      here, but I'm afraid I'm going to have to punch you in the face."

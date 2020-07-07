@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Jeff
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Jeff
+    font: {fileID: 0}
+    sentence: Why did Annie stick me in the back with the losers?
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Pierce
+    font: {fileID: 0}
+    sentence: Nice one, Jeffrey. Good thing we got rid of Chang so there's no more
+      losers now.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Jeff
+    font: {fileID: 0}
+    sentence: One, we got rid of Chang because he tried to used cheat codes to make
+      his sprite more pretty than me.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Jeff
+    font: {fileID: 0}
+    sentence: Second, this is still the losers club because you, Pierce, are the biggest
+      loser in the WORLD!
+    soundByte: {fileID: 0}
+    sceneChange: 0

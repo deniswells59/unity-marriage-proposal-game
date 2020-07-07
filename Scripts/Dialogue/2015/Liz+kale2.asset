@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Liz+kale2
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Liz
+    font: {fileID: 0}
+    sentence: Hey, what are you guys doing next Wednesday?
+    soundByte: {fileID: 0}
+  - name: Kale
+    font: {fileID: 0}
+    sentence: Literally, nothing.
+    soundByte: {fileID: 0}
+  - name: Liz
+    font: {fileID: 0}
+    sentence: We should go to Garlic Brothers! The place on the marina by Bob's. They
+      have a hella good happy hour.
+    soundByte: {fileID: 0}
+  - name: Kale
+    font: {fileID: 0}
+    sentence: Yes! Let's do that forever and be best friends!
+    soundByte: {fileID: 0}

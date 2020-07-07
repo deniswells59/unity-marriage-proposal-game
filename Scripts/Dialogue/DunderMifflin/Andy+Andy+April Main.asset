@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Andy+Andy+April Main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Andy Dwyer
+    sentence: '*GASP* April! This dude has a guitar!'
+  - name: April
+    sentence: I swear to god, Andy, if you start singing, I'm going to divorce you
+      and marry the next person I see.
+  - name: Andy Bernard
+    sentence: No way! Your name is "Andy" too?
+  - name: Andy Dwyer
+    sentence: Yeah! I'm Andy Dwyer!
+  - name: Andy Bernard
+    sentence: Well, "Ann-D", I'm Andrew Bernard. You can call me "Ann-B".
+  - name: Andy Dwyer
+    sentence: 'Oh, that''s so stupid!! I''ll definitely call you that.
+
+
+      Can you play something, Ann-B?'
+  - name: Andy Bernard
+    sentence: 'I''ll do you one better, Ann-D. Let''s duet.
+
+
+      1..2..3..4..'
+  - name: April
+    sentence: Shut the f**k up.
+  - name: Andy Dwyer
+    sentence: HA! HA!
+  - name: Andy Bernard
+    sentence: Well, that's pretty rude. But I'll try to respect your wishes and refrain
+      from playing.

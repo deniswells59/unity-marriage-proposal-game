@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Ben+Dwight Main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Ben
+    sentence: No, you see Dwight, Jack and Kate and all the other Losties time traveled
+      back to 2010. That's the island time now. The rest is just a "flash-sideways"
+      to a parallel universe.
+  - name: Dwight
+    sentence: But there's no way to know that. The screen cuts to white and that's
+      the end of the show.
+  - name: Ben
+    sentence: Wait. Did you not watch season 6 of Lost? The last season?
+  - name: Dwight
+    sentence: 'Season 6?
+
+
+      Jim told me that season 5 was the last season...'
+  - name: Ben
+    sentence: Well, Jim is wrong.
+  - name: Dwight
+    sentence: 'I can''t wait to tell him. He''s going to look SO stupid. He thought
+      season 5 was the ending for the last 9 years!
+
+
+      Idiot.'

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: shary
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Mr. Shary
+    font: {fileID: 0}
+    sentence: Hey, Cheyenne! How's it going?!
+    soundByte: {fileID: 0}
+  - name: Mr. Shary
+    font: {fileID: 0}
+    sentence: "Since it's the year 2010 and I've already put on Little Shop of Horror
+      last Spring --\n\nWait. Why did I say \"2010\"? Obviously, you know what year
+      it is. \nAnyways..."
+    soundByte: {fileID: 0}
+  - name: Mr. Shary
+    font: {fileID: 0}
+    sentence: I'm gonna put on Little Shop again this year. But! This time, I'm going
+      to cast a blonde person for the role of Audrey, instead of using a bad wig.
+    soundByte: {fileID: 0}
+  - name: Shary
+    font: {fileID: 0}
+    sentence: AND, I'm going to have the actress use the infamous "Audrey" accent.
+      AND, I don't care if the female lead actress's voice out performs the male lead,
+      because ThAt iS LiTtErAlLy InTeGrAl to tHe ToNe AnD AbSuRdItY oF tHe ScRipT.
+    soundByte: {fileID: 0}

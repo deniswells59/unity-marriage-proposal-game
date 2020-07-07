@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Luke Main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Luke
+    sentence: '"Kirk-Coin"?'
+  - name: Luke
+    sentence: '"Kirk-Coin"?!'
+  - name: Luke
+    sentence: FIRST, I have to redesign my whole menu to cater to Kirk's stupid idea
+      called "Hollow Dollar" or WHATEVER the hell it's called.
+  - name: Luke
+    sentence: THEN, I had to remove ALL of the prices because I could no longer accept
+      his stupid fake money.
+  - name: Luke
+    sentence: NOW, Taylor wants to let Kirk attempt the same stupid idea -- OH! But
+      this time it's different because it has some other stupid name. And if I don't
+      comply, I'll have to start paying a fee to him and his stupid commitee.
+  - name: Luke
+    sentence: 'This thing Kirk is doing here.
+
+
+      I''m out.
+
+
+      I''m ALL out.'
+  - name: Luke
+    sentence: 'Anyways...
+
+
+      You look like you could use some breakfast. You wanna come in?'
+  - name: Luke
+    sentence: Go ahead and go in. Sit anywhere you want. I gotta cool down a bit.

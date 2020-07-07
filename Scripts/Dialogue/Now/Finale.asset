@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Finale
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Me
+    font: {fileID: 0}
+    sentence: I remember a day, probably back in 2011, when we were driving around
+      in the Volkswagen on Pacific Avenue...
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: You asked me "Do you know how you would propose to me?" and I told you
+      "Yeah, I have a great idea."
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: And I swear, on that day - 9ish years ago, I thought, "I'm gonna make
+      her a cute ass game".
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: An adventure where she gets to explore our favorite worlds from the
+      various forms of media that we consume.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: And through the years I attempted to learn game development a few times.
+      Remember when I moved back into my parents? I started trying to learn some "GameMaker"
+      tool?
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: I gave up after about a month back then. But now, I'm so confident in
+      our life, I think we can do anything.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: Then the game transitions into our world.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: The story of our relationship is not as dramatic as Luke and Lorelai's.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: 'But it''s just as cute as Jim and Pam''s. '
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: And as heart-warming as Tony and Cap's.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: But all the adventures that film and TV has taken us on don't compare
+      to our own adventure together. And I want it to keep going forever.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: So......
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Me
+    font: {fileID: 0}
+    sentence: 
+    soundByte: {fileID: 0}
+    sceneChange: 1

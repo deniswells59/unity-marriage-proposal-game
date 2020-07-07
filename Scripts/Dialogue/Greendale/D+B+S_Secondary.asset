@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: D+B+S_Secondary
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Britta
+    sentence: Dean! You have a great voice! Sing another one!
+  - name: Dean
+    sentence: Oh, I don't know, Britta. It has to come up naturally.
+  - name: Britta
+    sentence: 'Uhh, okay... That''s easy.
+
+      * trying to sing *
+
+      Cyn-Dean comes home, in the middle of the night, his father says "what you gonna
+      do with your life?"'
+  - name: Dean
+    sentence: 'Oh no...my father? I can''t face my father! Especially dressed like
+      this!
+
+
+      Why did you open this wound in me, Britta?? You''re the worst!!'
+  - name: Shirley
+    sentence: Oh, that's not nice...

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Josh+Liz
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Liz
+    font: {fileID: 0}
+    sentence: 'Cheyenne!
+
+
+      Josh is being weird.'
+    soundByte: {fileID: 0}
+  - name: Josh
+    font: {fileID: 0}
+    sentence: "No! I know it sounds crazy, but I think we're time traveling. \n\nI
+      appeared here from the future! What year is it?"
+    soundByte: {fileID: 0}
+  - name: Liz
+    font: {fileID: 0}
+    sentence: 2010.
+    soundByte: {fileID: 0}
+  - name: Josh
+    font: {fileID: 0}
+    sentence: Oh! That's why everyone has bangs!
+    soundByte: {fileID: 0}
+  - name: Liz
+    font: {fileID: 0}
+    sentence: No body has bangs in the future?
+    soundByte: {fileID: 0}
+  - name: Josh
+    font: {fileID: 0}
+    sentence: 'No!
+
+
+      Well, YOU do actually...'
+    soundByte: {fileID: 0}

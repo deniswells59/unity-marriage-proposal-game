@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Star+Gam+Drax Second
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Peter Quill
+    sentence: Alright, our friend Mantis on the ship said she could like, see your
+      mind's eye or some shit.
+  - name: Peter Quill
+    sentence: 'You''re looking for something? But you don''t know what?
+
+
+      Hmm.. I think I have some friends who can help.'
+  - name: Peter Quill
+    sentence: C'mon kids! Get on the Milano! Field trip's over. Next stop, New York!
+  - name: Usagi
+    sentence: "OOO! \n\nCAN WE STOP BY MAMORU'S PLACE ON THE WAY??"
+  - name: Peter Quill
+    sentence: I don't know what that is, but it sounds cute, so yes.

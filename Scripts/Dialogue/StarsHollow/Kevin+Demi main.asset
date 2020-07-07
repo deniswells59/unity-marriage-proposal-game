@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Kevin+Demi main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Kevin
+    sentence: Hi! I'm Kevin!
+  - name: Demi
+    sentence: And I'm Demi! And we're...
+  - name: Kevin and Demi
+    sentence: The Gilmore Guys!
+  - name: Kevin
+    sentence: What's up Gilly, we're here in Stars Hollow, today. Demi, How does that
+      make you feel?
+  - name: Demi
+    sentence: 'Not good. Too be clear, we are not on the set of Gilmore Girls, with
+      the cast. We are IN Stars Hollow, with the ACTUAL characters.
+
+
+      I''m not good, Kevin. My anxiety is through the roof.'
+  - name: Kevin
+    sentence: Can't agree with you more. The thought of Emily Gilmore being 100 feet
+      away from me is blowing my mind.
+  - name: Demi
+    sentence: Speaking of "feet". Why the fuck are we barefoot??
+  - name: Kevin
+    sentence: 'Small town quirks?
+
+
+      Oh, is it time for the fashion report?'
+  - name: Demi
+    sentence: 'Fine...
+
+
+      Fa - fa - fa -'
+  - name: Demi
+    sentence: You missed your cue.
+  - name: Kevin
+    sentence: Oh my gosh, Demi. All THREE of the Rory boyfriends are behind us right
+      now. Should we go tell them who's team we're on?
+  - name: Demi
+    sentence: Hmmm. I think they already know.

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: L+R main
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Lorelai
+    sentence: Okay, uhm, can you explain it again?
+  - name: Rory
+    sentence: 'Yes. Kirk has started his own crypto currency and he wants to set up
+      every business in town to accept it as a form of payment. '
+  - name: Rory
+    sentence: But I think it could destabilize our economy because of how volatile
+      the value is. Jay Adkinson wrote a very interesting article about crypto and
+      it reads more like a horror story than a finance piece.
+  - name: Lorelai
+    sentence: '"Crypto"? We''re just calling it "crypto" now?'
+  - name: Rory
+    sentence: Hey, you gotta keep up with the times, kid. Read a little, stay educated.
+      Fasten your seatbelts, it's going to be a bumpy century.
+  - name: Lorelai
+    sentence: Coming from the girl wearing her old high school uniform...
+  - name: Rory
+    sentence: Hey! Laundry came up fast and this is all I had left in my closet. Besides,
+      it wouldn't be a big deal if my mother would've just loaned me some clothes...
+  - name: Lorelai
+    sentence: Well, last time I let you borrow that blue dress, you looked so good
+      in it that I was never able to wear it again. And where is it now?
+  - name: Rory
+    sentence: About 20 minutes into a rinse cycle between my Yale sweat pants and
+      a Mystic Pizza t-shirt.
+  - name: Lorelai
+    sentence: Right. So now you're going to run around all day and take solace in
+      the fact that you STILL fit into an outfit that you wore when you were 18.
+  - name: Rory
+    sentence: And rub everyone's faces in it!
+  - name: Lorelai
+    sentence: That's my girl.
+  - name: Lorelai
+    sentence: Oh! There's someone standing here.
+  - name: Rory
+    sentence: Oh my gosh. We're so completely self-absorbed and in our own world that
+      we didn't even notice someone standing here.
+  - name: Lorelai
+    sentence: Hi! I'm Lorelai! If you're new in town, you should come check out the
+      Dragonfly Inn. Maybe get a room there and stay a while.
+  - name: Rory
+    sentence: She can't, mom. She's on an adventure. Go explore the town and meet
+      some of Stars Hollow's finest! Right now, the town is throwing a party to celebrate
+      the release of Kirk's latest cryto currrency.
+  - name: Lorelai
+    sentence: Oh right. "Latest". I hope he learned his lesson. I think he's still
+      paying back Al's Pancake World from the fallout of his Hollows-Coin...
+  - name: Rory
+    sentence: Kirk never learns his lesson. I think that's a part of his charm.
+  - name: Lorelai
+    sentence: Sure, if that's what you wanna call it.
+  - name: Lorelai
+    sentence: So, nice to meet you! Uh, I hope you find what you're looking for!
+  - name: Rory
+    sentence: Oh yeah, person. Good luck!

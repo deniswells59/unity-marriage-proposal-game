@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: tanny+kylee
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Tanner
+    font: {fileID: 0}
+    sentence: Oh no! I forgot all my DnD stuff..
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Kylee
+    font: {fileID: 0}
+    sentence: Aw heck.
+    soundByte: {fileID: 0}
+    sceneChange: 0
+  - name: Tanner
+    font: {fileID: 0}
+    sentence: I guess we'll just have to play Jank-Bank instead.
+    soundByte: {fileID: 0}
+    sceneChange: 0

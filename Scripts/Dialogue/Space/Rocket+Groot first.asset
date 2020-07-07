@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2890aa4c0a90948bd8a5bb0c6a5a9e26, type: 3}
+  m_Name: Rocket+Groot first
+  m_EditorClassIdentifier: 
+  NPCScene:
+  - name: Rocket
+    sentence: DAMN IT! Those girls beat us to Ronan. What the hell am I supposed to
+      shoot now?
+  - name: Groot
+    sentence: I am Groot?
+  - name: Rocket
+    sentence: I'm not going to shoot those girls, Groot. That's not cool
+  - name: Groot
+    sentence: I am Groot.
+  - name: Rocket
+    sentence: 'Woah! Dude!
+
+
+      Those girls are clearly underage! You can''t say that!'
+  - name: Groot
+    sentence: I am Groot.
+  - name: Rocket
+    sentence: 'That is true. Technically, you''re a teenager...
+
+
+      Okay. Say whatever you want.'
+  - name: Groot
+    sentence: I am Groooot.
+  - name: Rocket
+    sentence: "WhAt?! HAHA! \n\nThat's disgusting!\n\nNevermind. You can't say whatever
+      you want."
